@@ -1,0 +1,6 @@
+1.What is git?-Versiyali idareetme sistemidir.
+2.What is Github?-Yazdiqimiz kodlari saxlamaq ucun bir platformadir.
+3.What is Gitbash?-Gitbash bir terminaldir hansi ki developerlere Git-den komanda xetti interfeysinde istifade etmeye imkan verir.
+4.What do you understand by the term 'Version Control System'-Yeni ki,biz serverden fayli yoxlaya,deyisiklikler ede bilerik.
+5.what benefits come with usung Git?-Yaddas,emekdasliq,elverisli
+6.What is git repository?-proyektimizi orada saxliyiriq ve proyektimizi muzakire ede,idare ede bilerik.
